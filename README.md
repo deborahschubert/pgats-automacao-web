@@ -1,4 +1,4 @@
-﻿Trabalho final para disciplina de Automação Web para Pós-Graduação em Automação de Testes de Software
+﻿# Trabalho final para disciplina de Automação Web para Pós-Graduação em Automação de Testes de Software
 
 Os testes abaixo foram usados para o trabalho utilizando o site https://automationexercise.com/test_cases
 ```
